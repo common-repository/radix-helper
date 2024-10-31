@@ -1,0 +1,17 @@
+{
+    "name": "codelimthemes/radix-helper",
+    "description": "Used for radix themes frontpage helper",
+    "type": "wordpress project",
+    "license": "GPL",
+    "authors":[
+    	{
+    		"name":"codelimthemes",
+    		"email":"pawandongol@gmail.com"
+    	}
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+    	"psr-4":{"Inc\\":"./inc"}
+    }
+}
